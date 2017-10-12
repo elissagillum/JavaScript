@@ -1,0 +1,49 @@
+#title{
+  background-color: navy;
+  width: 970px;
+  padding: 5px;
+  display: inline-block;
+}
+#box-1{
+  background-color: red;
+  color: silver;
+  margin-bottom: : 5px;
+  font-size: 15px;
+  border-radius: 10px;
+
+}#box-2{
+ background-color: teal;
+ display: inline-block;
+ vertical-align: top;
+ margin: 10px;
+ font-size: 14px;
+ border-radius: 10px;
+}
+
+#box-3{
+ background-color: black;
+ color: white;
+ padding: 10px; 5px; 10px; 5px;
+ width: 700px;
+ display: inline-block;
+ font-size: 14px;
+ margin-left: 10px;
+ margin-bottom: 15px;
+ border-radius: 10px;
+
+}
+
+#box-4{
+background-color: gray;
+padding: 5px;
+color: white;
+border-radius: 10px;
+}
+
+#nav-menu {
+  color: white;
+}
+
+span{
+  color: purple;
+}
